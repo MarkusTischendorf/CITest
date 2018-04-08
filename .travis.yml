@@ -3,6 +3,7 @@ mono: none
 dotnet: 2.0.0
 script:
  - dotnet restore
+ - dotnet build --configuration Release
 deploy:
  provider: azure_web_apps
  username: $AzureEmail

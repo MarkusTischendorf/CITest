@@ -1,0 +1,10 @@
+C:\Users\marku\Desktop\CITest\CITest\bin\Debug\netcoreapp2.0\CITest.deps.json
+C:\Users\marku\Desktop\CITest\CITest\bin\Debug\netcoreapp2.0\CITest.runtimeconfig.json
+C:\Users\marku\Desktop\CITest\CITest\bin\Debug\netcoreapp2.0\CITest.runtimeconfig.dev.json
+C:\Users\marku\Desktop\CITest\CITest\bin\Debug\netcoreapp2.0\CITest.dll
+C:\Users\marku\Desktop\CITest\CITest\bin\Debug\netcoreapp2.0\CITest.pdb
+C:\Users\marku\Desktop\CITest\CITest\obj\Debug\netcoreapp2.0\CITest.csproj.CoreCompileInputs.cache
+C:\Users\marku\Desktop\CITest\CITest\obj\Debug\netcoreapp2.0\CITest.AssemblyInfoInputs.cache
+C:\Users\marku\Desktop\CITest\CITest\obj\Debug\netcoreapp2.0\CITest.AssemblyInfo.cs
+C:\Users\marku\Desktop\CITest\CITest\obj\Debug\netcoreapp2.0\CITest.dll
+C:\Users\marku\Desktop\CITest\CITest\obj\Debug\netcoreapp2.0\CITest.pdb
