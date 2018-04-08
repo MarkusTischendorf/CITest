@@ -3,3 +3,8 @@ mono: none
 dotnet: 2.0.0
 script:
  - dotnet restore
+deploy:
+ provider: azure_web_apps
+ username: $AzureEmail
+ password: $AzurePassword
+ site: CITestAPI
